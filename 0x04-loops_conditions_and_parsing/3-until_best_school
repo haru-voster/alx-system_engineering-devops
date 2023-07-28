@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#print best school  by using an until loop
+# print best school  by using an until loop
 x=0
 until [ $x -gt 9 ]
 do
