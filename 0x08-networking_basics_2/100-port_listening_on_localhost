@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#author: haru-voster
+# Script that listens on port 98 on localhost.
+
+nc -l 98
