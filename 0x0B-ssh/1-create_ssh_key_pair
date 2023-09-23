@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# RSA -private key
+ssh-keygen -f codingschool -N betty -b 4096
