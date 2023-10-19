@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# script that identifies whoami
+sudo -u "$1" whoami
+
