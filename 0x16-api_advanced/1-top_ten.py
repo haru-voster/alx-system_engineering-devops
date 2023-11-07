@@ -1,8 +1,5 @@
 #!/usr/bin/python3
-"""
-a FUNCTION that Queries the Reddit API and prints the titles of the first 10 hot posts listed
-for a given subreddit.
-"""
+"""Module for task 1"""
 import requests
 
 
